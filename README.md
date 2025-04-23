@@ -1,4 +1,4 @@
 # nikitha-demo
 This is first Git Repository
 <br>
-Author-Meena Nikitha
+Author-Meena Nikitha(sevya)
